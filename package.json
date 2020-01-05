@@ -22,12 +22,11 @@
       "src"
     ],
     "devDependencies": {
-        "babel-plugin-transform-flow-strip-types": "^6.22.0",
-        "babel-preset-react-native": "^4.0.1",
+      "babel-plugin-transform-flow-strip-types": "^6.22.0",
+      "babel-preset-react-native": "^4.0.1"
     },
     "dependencies": {
       "@react-native-community/netinfo": "^4.1.2",
       "lodash": "^4.17.11"
-    },
-  
+    }
   }
