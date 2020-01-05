@@ -1,0 +1,33 @@
+{
+    "name": "react-native-network-detector",
+    "version": "0.0.1",
+    "description": "Handy toolbelt to deal with Low network  in React Native applications.",
+    "main": "./src/index.js",
+    "author": "Himanshu Jain",
+    "scripts": {
+    
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "react-native",
+      "react",
+      "offline",
+      "offline-first",
+      "redux"
+    ],
+    "files": [
+      "src"
+    ],
+    "devDependencies": {
+        "babel-plugin-transform-flow-strip-types": "^6.22.0",
+        "babel-preset-react-native": "^4.0.1",
+    },
+    "dependencies": {
+      "@react-native-community/netinfo": "^4.1.2",
+      "lodash": "^4.17.11"
+    },
+  
+  }
